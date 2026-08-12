@@ -46,12 +46,7 @@ export default function Hero() {
     >
       <div className="cursor-glow hidden lg:block" />
       <div className="relative max-w-7xl mx-auto px-6 lg:px-8">
-        <Reveal>
-          <div className="inline-flex items-center gap-2 font-mono text-xs uppercase tracking-wider text-signal-ink border border-signal/40 bg-signal/10 rounded-full px-3 py-1 mb-8">
-            <span className="relative w-1.5 h-1.5 rounded-full bg-signal-ink text-signal-ink status-ring" />
-            Now onboarding — 3 project slots left this quarter
-          </div>
-        </Reveal>
+        
 
         <Reveal delay={80}>
           <h1 className="font-display font-semibold text-4xl sm:text-5xl lg:text-6xl leading-[1.08] tracking-tight max-w-3xl text-ink">
