@@ -24,7 +24,7 @@ const XIcon = ({ size = 16, className }) => (
 
 // TODO: replace these with Avera's real contact details before going live.
 const CONTACT = {
-  email: 'hello@avera.studio',
+  email: 'avera.techsolutions.in@gmail.com',
   phone: '+91 7025 7789 49',
   phoneHref: '+917025778949',
   location: 'Kochi,Kerala, India',
